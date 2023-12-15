@@ -31,4 +31,4 @@ This error occurs when the server doesn't include an Access-Control-Allow-Origin
 ### Note:- 
 - We can't resolve **CORS** Error in plain react application, resolving **cors** is backend issue and backend developers had to handle it.
 
-- **CORS** Error always occured in client side rendering in server side rendering **cors** issue does'nt occurs.
+- **CORS** Error always occured in client side rendering, in server side rendering **cors** issue does'nt occurs.
